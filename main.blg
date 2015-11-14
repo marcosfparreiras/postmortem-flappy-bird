@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: sbgames.bst
 Database file #1: template.bib
-You've used 3 entries,
+You've used 4 entries,
             2748 wiz_defined-function locations,
-            612 strings with 4905 characters,
-and the built_in function-call counts, 873 in all, are:
-= -- 84
-> -- 27
+            617 strings with 5031 characters,
+and the built_in function-call counts, 1156 in all, are:
+= -- 112
+> -- 36
 < -- 0
-+ -- 7
-- -- 9
-* -- 47
-:= -- 152
-add.period$ -- 12
-call.type$ -- 3
-change.case$ -- 15
-chr.to.int$ -- 3
-cite$ -- 3
-duplicate$ -- 33
-empty$ -- 82
-format.name$ -- 9
-if$ -- 182
++ -- 10
+- -- 12
+* -- 62
+:= -- 198
+add.period$ -- 16
+call.type$ -- 4
+change.case$ -- 20
+chr.to.int$ -- 4
+cite$ -- 4
+duplicate$ -- 44
+empty$ -- 109
+format.name$ -- 12
+if$ -- 242
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 0
-newline$ -- 21
-num.names$ -- 9
-pop$ -- 27
+newline$ -- 27
+num.names$ -- 12
+pop$ -- 36
 preamble$ -- 1
-purify$ -- 12
+purify$ -- 16
 quote$ -- 0
-skip$ -- 27
+skip$ -- 36
 stack$ -- 0
-substring$ -- 16
-swap$ -- 9
+substring$ -- 22
+swap$ -- 12
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 24
+type$ -- 32
 warning$ -- 0
-while$ -- 9
-width$ -- 5
-write$ -- 44
+while$ -- 12
+width$ -- 6
+write$ -- 58

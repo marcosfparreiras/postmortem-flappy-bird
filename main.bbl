@@ -1,5 +1,12 @@
 \begin{thebibliography}{\protect\citename{Harvard }2014}
 
+\bibitem[\protect\citename{Dino }2014]{Dino2014}
+{\sc Dino}, 2014.
+\newblock A post-mortem on flappy bird.
+\newblock
+  \url{https://medium.com/@dinocratic/a-post-mortem-on-flappy-bird-3c1bde4b9953}.
+\newblock Acessado em 14/11/2015.
+
 \bibitem[\protect\citename{Eldic }2014]{Eldic2014}
 {\sc Eldic, K.}, 2014.
 \newblock A flappy case of a flappy bird.

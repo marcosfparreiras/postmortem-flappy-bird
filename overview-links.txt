@@ -8,7 +8,7 @@ https://medium.com/@dinocratic/a-post-mortem-on-flappy-bird-3c1bde4b9953
 author = {Dino},
 title = {A Post-mortem On Flappy Bird},
 year = {2014}, 
-howpublished = "\url{https://medium.com/@dinocratic/a-post-mortem-on-flappy-bird-3c1bde4b9953",
+howpublished = "\url{https://medium.com/@dinocratic/a-post-mortem-on-flappy-bird-3c1bde4b9953}",
 note = {Acessado em 14/11/2015}
 }
 
@@ -43,7 +43,7 @@ ESTE TEXTO SERÁ A FONTE PRINCIPAL PARA O ARTIGO. MUITO BOM!
 author = {Christina Warren},
 title = {28 Days of Fame: The Strange, True Story of 'Flappy Bird'},
 year = {2014}, 
-howpublished = "\url{http://mashable.com/2014/02/10/flappy-bird-story/#mEr7W5ms7sqZ",
+howpublished = "\url{http://mashable.com/2014/02/10/flappy-bird-story/#mEr7W5ms7sqZ}",
 note = {Acessado em 14/11/2015}
 }
 
@@ -57,3 +57,17 @@ Ler texto como um todo como base
 -----------------------------------------------------
 
 http://www.digitallydownloaded.net/2014/02/postmortem-flappy-bird-was-success.html
+
+@misc{Harvard2014,
+author = {L. Harvard},
+title = {Postmortem: Flappy Bird was a success because it was pure gameplay},
+year = {2014}, 
+howpublished = "\url{http://www.digitallydownloaded.net/2014/02/postmortem-flappy-bird-was-success.html}",
+note = {Acessado em 14/11/2015}
+}
+
+
+
+
+
+The significant difference between the Flappy Bird and the other virally popular casual games however is that Flappy Bird isn't well developed. Its gameplay ideas are particularly derivative, as are its visuals. To top that off, the difficulty level is unfair, collision detection is imperfect and the randomly generated levels throw unwinnable segments your way. So how did this title end up conquering the App Store charts? 

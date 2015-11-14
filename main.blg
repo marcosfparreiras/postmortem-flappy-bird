@@ -3,50 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: sbgames.bst
 Database file #1: template.bib
-Warning--empty journal in beukelman2005augmentative
-Warning--empty organization in Coutinho2011a
-Warning--empty institution in ESA2015
-Warning--empty organization in Gerling:2012:FMG:2207676.2208324
-Warning--empty organization in Gerling:2013:KWW:2468356.2479609
-You've used 21 entries,
+You've used 1 entry,
             2748 wiz_defined-function locations,
-            715 strings with 7741 characters,
-and the built_in function-call counts, 7013 in all, are:
-= -- 696
-> -- 299
+            602 strings with 4562 characters,
+and the built_in function-call counts, 307 in all, are:
+= -- 28
+> -- 9
 < -- 0
-+ -- 90
-- -- 104
-* -- 517
-:= -- 1202
-add.period$ -- 74
-call.type$ -- 21
-change.case$ -- 128
-chr.to.int$ -- 21
-cite$ -- 26
-duplicate$ -- 270
-empty$ -- 558
-format.name$ -- 112
-if$ -- 1417
++ -- 2
+- -- 3
+* -- 17
+:= -- 58
+add.period$ -- 4
+call.type$ -- 1
+change.case$ -- 5
+chr.to.int$ -- 1
+cite$ -- 1
+duplicate$ -- 11
+empty$ -- 28
+format.name$ -- 3
+if$ -- 62
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 14
-newline$ -- 119
-num.names$ -- 63
-pop$ -- 132
+missing$ -- 0
+newline$ -- 9
+num.names$ -- 3
+pop$ -- 9
 preamble$ -- 1
-purify$ -- 106
+purify$ -- 4
 quote$ -- 0
-skip$ -- 201
+skip$ -- 10
 stack$ -- 0
-substring$ -- 242
-swap$ -- 61
+substring$ -- 5
+swap$ -- 3
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 168
-warning$ -- 5
-while$ -- 67
-width$ -- 24
-write$ -- 274
-(There were 5 warnings)
+type$ -- 8
+warning$ -- 0
+while$ -- 3
+width$ -- 2
+write$ -- 16

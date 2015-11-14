@@ -68,6 +68,22 @@ note = {Acessado em 14/11/2015}
 
 
 
+The significant difference between the Flappy Bird and the other virally popular casual games however is that Flappy Bird isn't well developed. Its gameplay ideas are particularly derivative, as are its visuals. To top that off, the difficulty level is unfair, collision detection is imperfect and the randomly generated levels throw unwinnable segments your way. So how did this title end up conquering the App Store charts?
 
 
-The significant difference between the Flappy Bird and the other virally popular casual games however is that Flappy Bird isn't well developed. Its gameplay ideas are particularly derivative, as are its visuals. To top that off, the difficulty level is unfair, collision detection is imperfect and the randomly generated levels throw unwinnable segments your way. So how did this title end up conquering the App Store charts? 
+
+The first key point is simplicity
+
+The second is novelty, here manifested in its extreme difficulty
+
+it's reminiscent of arcade culture rather than the App Store - it's a game which anyone can play and few can be good at, but everyone wants to try. 
+ it's a game which anyone can play and few can be good at, but everyone wants to try. 
+
+Most of all, however, it gets people talking. Gaming is a social activity and Flappy Bird is a fantastic conversation starter
+
+But with Flappy Bird, everyone has something to say about it. 
+
+In the modern age of gaming, these tenements can easily be lost in the sea of graphics specs, technical jargon and general maximalism which can be a barrier of entry for non-gamers
+
+Every now and then, it's good to see something come along which reminds us that gaming is for everyone. And what a strange and unexpected reminder this was.
+

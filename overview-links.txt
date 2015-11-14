@@ -1,0 +1,32 @@
+
+	*** Este documento reúne os resumos dos textos usados como base para o artigo ***
+
+
+https://medium.com/@dinocratic/a-post-mortem-on-flappy-bird-3c1bde4b9953
+
+@misc{Dino,
+author = {Dino},
+title = {A Post-mortem On Flappy Bird},
+year = {2014}, 
+howpublished = "\url{https://medium.com/@dinocratic/a-post-mortem-on-flappy-bird-3c1bde4b9953",
+note = {Acessado em 14/11/2015}
+}
+
+
+
+
+
+-----------------------------------------------------
+
+http://mashable.com/2014/02/10/flappy-bird-story/#mEr7W5ms7sqZ
+
+
+
+
+
+
+
+
+-----------------------------------------------------
+
+http://www.digitallydownloaded.net/2014/02/postmortem-flappy-bird-was-success.html

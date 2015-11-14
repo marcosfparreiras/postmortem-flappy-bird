@@ -35,6 +35,8 @@ In the end, Flappy Bird may not be a game that deserves a throne in the pantheon
 
 http://mashable.com/2014/02/10/flappy-bird-story/#mEr7W5ms7sqZ
 
+ESTE TEXTO SERÁ A FONTE PRINCIPAL PARA O ARTIGO. MUITO BOM!
+
 28 Days of Fame: The Strange, True Story of 'Flappy Bird'
 
 @misc{Warren2014,
@@ -44,6 +46,10 @@ year = {2014},
 howpublished = "\url{http://mashable.com/2014/02/10/flappy-bird-story/#mEr7W5ms7sqZ",
 note = {Acessado em 14/11/2015}
 }
+
+
+Ler texto como um todo como base
+
 
 
 

@@ -414,12 +414,12 @@
 \fi
 \newcommand{\keywordlist}{%
     \vspace{0.5\baselineskip}%
-    \par\noindent \textbf{Keywords: } \sbc@keywords%
+    \par\noindent \textbf{Palavras-Chave: } \sbc@keywords%
 }
 
 \newcommand{\contactlist}{%
     \vspace{0.5\baselineskip}%
-    \par\noindent \textbf{Author's Contact: } \\\par\indent 
+    \par\noindent \textbf{Contato dos Autores: } \\\par\indent 
     \begin{tabular}[t]{l}%
       \sbc@contactinfo
     \end{tabular}\par%

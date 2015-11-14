@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: template.aux
+The style file: sbgames.bst
+Database file #1: template.bib
+You've used 3 entries,
+            2748 wiz_defined-function locations,
+            614 strings with 4884 characters,
+and the built_in function-call counts, 1048 in all, are:
+= -- 105
+> -- 46
+< -- 0
++ -- 14
+- -- 16
+* -- 84
+:= -- 188
+add.period$ -- 11
+call.type$ -- 3
+change.case$ -- 18
+chr.to.int$ -- 3
+cite$ -- 3
+duplicate$ -- 35
+empty$ -- 76
+format.name$ -- 17
+if$ -- 206
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 1
+newline$ -- 20
+num.names$ -- 9
+pop$ -- 17
+preamble$ -- 1
+purify$ -- 16
+quote$ -- 0
+skip$ -- 28
+stack$ -- 0
+substring$ -- 40
+swap$ -- 9
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 24
+warning$ -- 0
+while$ -- 10
+width$ -- 4
+write$ -- 43

@@ -1,4 +1,18 @@
-\begin{thebibliography}{\protect\citename{Warren }2014}
+\begin{thebibliography}{\protect\citename{Harvard }2014}
+
+\bibitem[\protect\citename{Eldic }2014]{Eldic2014}
+{\sc Eldic, K.}, 2014.
+\newblock A flappy case of a flappy bird.
+\newblock
+  \url{http://www.gamasutra.com/blogs/KarloEldic/20140208/210337/A_flappy_case_of_a_Flappy_Bird.php}.
+\newblock Acessado em 14/11/2015.
+
+\bibitem[\protect\citename{Harvard }2014]{Harvard2014}
+{\sc Harvard, L.}, 2014.
+\newblock Postmortem: Flappy bird was a success because it was pure gameplay.
+\newblock
+  \url{http://www.digitallydownloaded.net/2014/02/postmortem-flappy-bird-was-success.html}.
+\newblock Acessado em 14/11/2015.
 
 \bibitem[\protect\citename{Warren }2014]{Warren2014}
 {\sc Warren, C.}, 2014.
